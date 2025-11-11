@@ -136,7 +136,7 @@
     padding: 12px 20px;
     border-radius: 12px;
     border: 0;
-    background: var(--orange);
+    background: #2e73dc;
     color: white;
     font-weight: 700;
     cursor: pointer;
@@ -144,7 +144,7 @@
   
   .cta {
     margin-top: 28px;
-    background: linear-gradient(90deg,#ef4444,#f04b3b);
+    background: linear-gradient(90deg,#7a7a7a,#2e73dc);
     color: white;
     border-radius: 20px;
     padding: 24px;

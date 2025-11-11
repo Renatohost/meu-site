@@ -115,7 +115,7 @@ function cadastrarUsuario(){
   salvarSessao({ nome: novo.nome, email: novo.email });
 
   alert('Cadastro realizado com sucesso! Você será redirecionado.');
-  window.location.href = "home.html";
+  window.location.href = "index.html";
 }
 
 // ----- Funções para home.html -----
