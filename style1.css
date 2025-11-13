@@ -14,8 +14,9 @@ body {
   box-shadow: 0 2px 5px rgba(0,0,0,0.05);
 }
 
-.header .logo img {
-  height: 50px;
+.header .logo {
+  color: #3e82ff;
+  font-weight: bold;
 }
 
 .header nav a {
